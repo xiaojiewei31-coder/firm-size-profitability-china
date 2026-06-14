@@ -1,0 +1,6 @@
+metric,value
+mean_eps_2005_2023_csi300,0.6642105263157895
+mean_eps_2005_2023_csi500,0.2947368421052632
+eps_growth_volatility_csi300,0.19157867582319568
+eps_growth_volatility_csi500,0.2297901781511832
+firm_observations,3500.0
